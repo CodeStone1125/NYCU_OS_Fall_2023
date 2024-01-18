@@ -1,0 +1,9 @@
+[submodule "ThreadScheduling"]
+	path = ThreadScheduling
+	url = https://github.com/CodeStone1125/ThreadScheduling.git
+[submodule "CustomKernal"]
+	path = CustomKernal
+	url = https://github.com/CodeStone1125/CustomKernal.git
+[submodule "Kernel_Module"]
+	path = Kernel_Module
+	url = https://github.com/CodeStone1125/Kernel_Module.git
